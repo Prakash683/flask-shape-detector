@@ -27,5 +27,5 @@ This is a simple web app that lets users **draw shapes** (like circles, triangle
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flask-shape-detector.git
+git clone https://github.com/Prakash683/flask-shape-detector/tree/80de32e66448aa13f3aa56ea57f90c6de1fd4a3d
 cd flask-shape-detector
